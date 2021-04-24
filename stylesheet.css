@@ -73,6 +73,7 @@ h2 {
 .opacity-screen {
     height: 100%;
     width: 100%;
+    padding-top: 25em;
     background-color: rgba(0, 0, 0, 0.377);
 }
 
