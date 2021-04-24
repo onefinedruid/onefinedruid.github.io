@@ -63,7 +63,7 @@ h2 {
 .content-1 {
     height: 30vh;
     width: 100vw;
-    padding-top: 3em;
+    padding-top: 10em;
     background-image: url("/images/hero.jpg");
     background-size: cover;
     background-position: center;
