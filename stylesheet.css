@@ -6,7 +6,7 @@ font-family: 'Open Sans', sans-serif; Regular 400, Bold 700
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Open Sans';
+    font-family: sans-serif;
 }
 
 nav {
@@ -89,6 +89,7 @@ h2 {
     background-image: url("/images/wrap.png");
     background-position: center;
     background-size: cover;
+    background-color: white;
 }
 
 .content-4 {
@@ -106,6 +107,7 @@ h2 {
     background-image: url("/images/wings.png");
     background-size: cover;
     background-position: center;
+    background-color: white;
 }
 
 .content-6 {
