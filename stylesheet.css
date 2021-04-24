@@ -11,3 +11,9 @@ nav {
     border-bottom: 1px solid black;
     background-color: lightseagreen;
 }
+
+nav img {
+    object-fit: cover;
+    height: 1em;
+    width: 2em;
+}
