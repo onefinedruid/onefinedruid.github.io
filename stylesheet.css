@@ -58,57 +58,30 @@ nav a {
     border-bottom: 1px solid black;
 }
 
-.box img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-}
-
-.content-1 img {
-    background-image: url("/images/hero.jpg");
-}
-
 .content-1 {
+    background-image: url("/images/hero.jpg");
     color: white;
-}
-
-.content-2 img {
-   
 }
 
 .content-2 {
     color: white;
 }
 
-.content-3 img {
+.content-3 {
     background-image: url("/images/wrap.png");
 }
 
-.content-3 {
-
-}
-
-.content-4 img {
-    background-image: url("/images/section.jpg");
-}
-
 .content-4 {
+    background-image: url("/images/section.jpg");
     color: white;
 }
 
-.content-5 img {
+.content-5 {
     background-image: url("/images/wings.png");
 }
 
-.content-5 {
-
-}
-
-.content-6 img {
-    background-image: url("/images/wood.jpg");
-}
-
 .content-6 {
+    background-image: url("/images/wood.jpg");
     color: white;
 }
 
