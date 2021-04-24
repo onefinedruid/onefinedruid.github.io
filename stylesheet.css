@@ -80,7 +80,7 @@ h2 {
 .content-2 {
     height: 15vh;
     width: 100vw;
-    background-color: firebrick;
+    background-color: rgb(88, 20, 11);
     color: white;
 }
 
@@ -149,7 +149,7 @@ nav img {
 }
 
 .opacity-screen {
-    padding-top: 2em;
+    padding-top: 37vh;
 }
 }
 
