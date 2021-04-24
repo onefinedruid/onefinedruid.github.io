@@ -17,7 +17,7 @@ nav {
     justify-content: space-between;
     margin: 0;
     height: 6vh;
-    width: 100vw;
+    width: 100%;
     border-bottom: 1px solid black;
     text-transform: uppercase;
 }
@@ -65,7 +65,7 @@ h2 {
 
 .content-1 {
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-image: url("/images/hero.jpg");
     background-size: cover;
     background-position: center;
@@ -103,7 +103,7 @@ h2 {
 
 .content-2 {
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-color: rgb(88, 20, 11);
     color: white;
     text-align: center;
@@ -127,7 +127,7 @@ h2 {
 
 .content-3 {
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-image: url("/images/wrap.png");
     background-position: center;
     background-size: cover;
@@ -136,7 +136,7 @@ h2 {
 
 .content-4 {
     height: 15vh;
-    width: 100vw;
+    width: 100%;
     background-image: url("/images/section.jpg");
     background-size: cover;
     background-position: center;
@@ -145,7 +145,7 @@ h2 {
 
 .content-5 {
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-image: url("/images/wings.png");
     background-size: cover;
     background-position: center;
@@ -154,7 +154,7 @@ h2 {
 
 .content-6 {
     height: 30vh;
-    width: 100vw;
+    width: 100%;
     background-image: url("/images/wood.jpg");
     background-size: cover;
     background-position: center;
