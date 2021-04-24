@@ -7,6 +7,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Open Sans';
+    background-color: black;
 }
 
 nav {
@@ -74,7 +75,7 @@ h2 {
 .opacity-screen {
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 30%);
+    opacity: 0.33;
 }
 
 .content-2 {
