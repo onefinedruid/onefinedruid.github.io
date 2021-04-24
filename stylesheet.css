@@ -65,7 +65,7 @@ nav a {
 }
 
 .content-1 img {
-    background-image: url("images/hero.jpg");
+    background-image: url("/images/hero.jpg");
 }
 
 .content-1 {
@@ -81,7 +81,7 @@ nav a {
 }
 
 .content-3 img {
-    background-image: url("images/wrap.png");
+    background-image: url("/images/wrap.png");
 }
 
 .content-3 {
@@ -89,7 +89,7 @@ nav a {
 }
 
 .content-4 img {
-    background-image: url("images/section.jpg");
+    background-image: url("/images/section.jpg");
 }
 
 .content-4 {
@@ -97,7 +97,7 @@ nav a {
 }
 
 .content-5 img {
-    background-image: url("images/wings.png");
+    background-image: url("/images/wings.png");
 }
 
 .content-5 {
@@ -105,7 +105,7 @@ nav a {
 }
 
 .content-6 img {
-    background-image: url("images/wood.jpg");
+    background-image: url("/images/wood.jpg");
 }
 
 .content-6 {
