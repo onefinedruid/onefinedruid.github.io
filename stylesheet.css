@@ -150,5 +150,19 @@ nav img {
 .opacity-screen {
     padding-top: 28vh;
 }
+
+.opacity-screen h2 :first-child {
+    font-family:'Open Sans';
+    font-size:45px;
+    font-weight:700;
+    color:white;
 }
 
+.opacity-screen h2 :nth-child(1) {
+    font-family:'Montserrat';
+    font-size:75px;
+    font-weight:900;
+    color:white;
+}
+
+}
