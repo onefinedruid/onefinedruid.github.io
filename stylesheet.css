@@ -3,6 +3,8 @@ body {
 }
 
 nav {
+    margin: 0;
+    padding: 1em;
     height: 5vh;
     width: 100vw;
     border-bottom: 1px solid black;
