@@ -63,18 +63,19 @@ h2 {
 .content-1 {
     height: 30vh;
     width: 100vw;
-    background-image: url("/images/hero.jpg");
     background-size: cover;
     background-position: center;
     text-transform: uppercase;
     color: white;
     text-align: center;
+    background-color: rgb(0, 0, 0);
 }
 
 .opacity-screen {
     height: 100%;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.33);
+    background-image: url("/images/hero.jpg");
+    opacity: 0.33;
 }
 
 .content-2 {
