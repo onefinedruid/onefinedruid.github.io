@@ -59,6 +59,8 @@ nav a {
 }
 
 .content-1 {
+    height: 100%;
+    width: 100%;
     background-image: url("/images/hero.jpg");
     object-fit: cover;
     color: white;
@@ -69,22 +71,30 @@ nav a {
 }
 
 .content-3 {
+    height: 100%;
+    width: 100%;
     background-image: url("/images/wrap.png");
     object-fit: cover;
 }
 
 .content-4 {
+    height: 100%;
+    width: 100%;
     background-image: url("/images/section.jpg");
     object-fit: cover;
     color: white;
 }
 
 .content-5 {
+    height: 100%;
+    width: 100%;
     background-image: url("/images/wings.png");
     object-fit: cover;
 }
 
 .content-6 {
+    height: 100%;
+    width: 100%;
     background-image: url("/images/wood.jpg");
     object-fit: cover;
     color: white;
