@@ -69,7 +69,12 @@ h2 {
     background-position: center;
     text-transform: uppercase; 
     text-align: center;
-    opacity: 0.33;
+}
+
+.opacity-screen {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.65);
 }
 
 .content-2 {
