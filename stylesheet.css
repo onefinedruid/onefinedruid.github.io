@@ -60,6 +60,7 @@ nav a {
 
 .content-1 {
     background-image: url("/images/hero.jpg");
+    object-fit: cover;
     color: white;
 }
 
@@ -69,19 +70,23 @@ nav a {
 
 .content-3 {
     background-image: url("/images/wrap.png");
+    object-fit: cover;
 }
 
 .content-4 {
     background-image: url("/images/section.jpg");
+    object-fit: cover;
     color: white;
 }
 
 .content-5 {
     background-image: url("/images/wings.png");
+    object-fit: cover;
 }
 
 .content-6 {
     background-image: url("/images/wood.jpg");
+    object-fit: cover;
     color: white;
 }
 
