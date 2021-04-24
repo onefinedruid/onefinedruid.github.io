@@ -63,6 +63,7 @@ h2 {
 .content-1 {
     height: 30vh;
     width: 100vw;
+    padding-top: 1em;
     background-size: cover;
     background-position: center;
     text-transform: uppercase;
