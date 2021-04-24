@@ -7,7 +7,6 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    font-weight: bold;
 }
 
 nav {
@@ -149,7 +148,7 @@ nav img {
 }
 
 .opacity-screen {
-    padding-top: 37vh;
+    padding-top: 28vh;
 }
 }
 
