@@ -165,4 +165,11 @@ nav img {
     color:white;
 }
 
+.opacity-screen a {
+    background-color:rgb(88, 20, 11);
+    padding:1em;
+    border-radius:3px;
+    color:white;
+}
+
 }
