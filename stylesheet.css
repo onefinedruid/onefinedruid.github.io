@@ -53,14 +53,18 @@ nav a {
 }
 
 .box {
+    margin: 0;
+}
 
+h2 {
+    margin: 0;
 }
 
 .content-1 {
     height: 30vh;
     width: 100vw;
     background-image: url("/images/hero.jpg");
-    object-fit: cover;
+    background-size: cover;
     color: white;
 }
 
@@ -75,14 +79,14 @@ nav a {
     height: 30vh;
     width: 100vw;
     background-image: url("/images/wrap.png");
-    object-fit: cover;
+    background-size: cover;
 }
 
 .content-4 {
     height: 15vh;
     width: 100vw;
     background-image: url("/images/section.jpg");
-    object-fit: cover;
+    background-size: cover;
     color: white;
 }
 
@@ -90,14 +94,14 @@ nav a {
     height: 30vh;
     width: 100vw;
     background-image: url("/images/wings.png");
-    object-fit: cover;
+    background-size: cover;
 }
 
 .content-6 {
     height: 30vh;
     width: 100vw;
     background-image: url("/images/wood.jpg");
-    object-fit: cover;
+    background-size: cover;
     color: white;
 }
 
