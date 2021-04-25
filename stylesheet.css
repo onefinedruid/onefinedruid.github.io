@@ -216,8 +216,7 @@ nav img {
 }
 
 .content-2 {
-    height: 25px;
-    padding: 1em 0;
+    height: 28vh;
 }
 
 .content-2 h2:nth-of-type(1) {
@@ -233,6 +232,7 @@ nav img {
     font-size: 50px;
     font-weight: 300;
     color: goldenrod;
+    padding-bottom: 2em;
 }
 
 }
