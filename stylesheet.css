@@ -252,6 +252,7 @@ nav img {
 
 .content-3 {
     height: 75vh;
+    padding: 65vw;
 }
 
 .content-3 h2:nth-of-type(1) {
@@ -259,7 +260,6 @@ nav img {
     font-size: 60px;
     font-weight: 300;
     color: goldenrod;
-    padding-left: 3em;
 }
 
 .content-3 h2:nth-of-type(2) {
@@ -268,11 +268,10 @@ nav img {
     font-size:48px;
     font-weight:900;
     color:rgb(121, 39, 39);
-    padding-left: 3em;
 }
 
 .content-3 p {
-    padding-left: 3em;
+    
 }
 
 }
