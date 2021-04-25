@@ -103,7 +103,7 @@ h2 {
 
 .content-2 {
     height: 19vh;
-    width: 100%;
+    width: 100vw;
     background-color: rgb(88, 20, 11);
     color: white;
     text-align: center;
