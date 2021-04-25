@@ -125,14 +125,19 @@ h2 {
 }
 
 .content-3 {
-    height: 60vh;
+    height: 30vh;
     width: 100%;
     background-image: url("/images/wrap.png");
-    background-position-x: left;
+    background-position-x: center;
     background-size: contain;
     background-color: white;
     background-repeat: no-repeat;
     text-align: center;
+    padding-bottom: 30vh;
+}
+
+.textblock-3 {
+    padding-top: 30vh;
 }
 
 .content-3 h2:nth-of-type(1) {
@@ -153,9 +158,10 @@ h2 {
 .content-3 p {
     font-family: 'Open Sans';
     font-weight: normal;
-    font-size: 16px;
-    width: 88vw;
+    font-size: 18px;
+    width: 75vw;
     line-height: 1.5;
+    padding-left: 1em;
 }
 
 .content-4 {
@@ -286,6 +292,7 @@ nav img {
 }
 
 .content-3 {
+    background-position-x: left;
     text-align: left;
     height: 75vh;
 }
