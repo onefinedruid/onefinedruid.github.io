@@ -165,7 +165,6 @@ h2 {
     background-size: cover;
     background-position: center;
     text-align: center;
-    color: white;
 }
 
 .opacity-screen-2 {
@@ -189,6 +188,7 @@ h2 {
     font-size: 25px;
     width: 37vw;
     line-height: 1.5;
+    color: white;
 }
 
 .opacity-screen-2 a {
