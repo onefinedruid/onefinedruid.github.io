@@ -133,7 +133,7 @@ h2 {
     background-color: white;
     background-repeat: no-repeat;
     text-align: center;
-    padding-bottom: 40vh;
+    padding-bottom: 45vh;
 }
 
 .textblock-3 {
@@ -161,7 +161,7 @@ h2 {
     font-size: 18px;
     width: 75vw;
     line-height: 1.5;
-    padding-left: 1em;
+    margin: auto;
 }
 
 .content-4 {
@@ -321,7 +321,8 @@ nav img {
 .content-3 p {
     font-size: 25px;
     width: 30vw;
-    margin: auto;
+    margin: 0;
+    padding-left: 0;
 }
 
 .content-4 {
