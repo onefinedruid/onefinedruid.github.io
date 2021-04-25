@@ -216,7 +216,8 @@ nav img {
 }
 
 .content-2 {
-    height: 28vh;
+    height: 25px;
+    padding: 1em 0;
 }
 
 .content-2 h2:nth-of-type(1) {
