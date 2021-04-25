@@ -153,8 +153,9 @@ h2 {
 .content-3 p {
     font-family: 'Open Sans';
     font-weight: normal;
-    font-size: 20px;
-    width: 33vw;
+    font-size: 25px;
+    width: 30vw;
+    line-height: 1.5;
 }
 
 .content-4 {
