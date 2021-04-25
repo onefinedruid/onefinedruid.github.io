@@ -253,7 +253,7 @@ nav img {
 
 .content-3 {
     height: 75vh;
-    padding: 65vw;
+    padding-left: 65vw;
 }
 
 .content-3 h2:nth-of-type(1) {
