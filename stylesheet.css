@@ -128,7 +128,7 @@ h2 {
     height: 30vh;
     width: 100%;
     background-image: url("/images/wrap.png");
-    background-position-x: left 1em;
+    background-position-x: left 25px;
     background-size: contain;
     background-color: white;
     background-repeat: no-repeat;
