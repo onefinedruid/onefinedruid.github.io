@@ -295,6 +295,7 @@ nav img {
     background-position-x: left;
     text-align: left;
     height: 75vh;
+    padding-bottom: 0;
 }
 
 .textblock-3 {
