@@ -164,6 +164,7 @@ h2 {
     background-image: url("/images/section.jpg");
     background-size: cover;
     background-position: center;
+    text-align: center;
     color: white;
 }
 
@@ -171,7 +172,6 @@ h2 {
     height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.377);
-    text-align: center;
 }
 
 
