@@ -179,14 +179,12 @@ h2 {
     text-align: center;
 }
 
-
 .opacity-screen-2 h2 {
     font-family:'Montserrat';
     text-transform: uppercase; 
-    font-size:48px;
+    font-size: 16px;
     font-weight:900;
     color:white;
-    padding-top: 1.5em;
 }
 
 .opacity-screen-2 p {
@@ -327,6 +325,11 @@ nav img {
 
 .content-4 {
     height: 42vh;
+}
+
+.opacity-screen-2 h2 {
+    font-size:48px;
+    padding-top: 1.5em;
 }
 
 }
