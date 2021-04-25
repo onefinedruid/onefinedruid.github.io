@@ -167,6 +167,12 @@ h2 {
     color: white;
 }
 
+.opacity-screen-2 {
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
 .content-5 {
     height: 30vh;
     width: 100%;
@@ -275,8 +281,8 @@ nav img {
     color:rgb(121, 39, 39);
 }
 
-.content-3 p {
-    
+.content-4 {
+    height: 23vh;
 }
 
 }
