@@ -186,6 +186,7 @@ h2 {
     font-family: 'Open Sans';
     font-weight: normal;
     font-size: 25px;
+    margin: auto;
     width: 37vw;
     line-height: 1.5;
     color: white;
@@ -308,7 +309,7 @@ nav img {
 }
 
 .content-4 {
-    height: 38vh;
+    height: 42vh;
 }
 
 }
