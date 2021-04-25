@@ -64,7 +64,7 @@ h2 {
 }
 
 .content-1 {
-    height: 30vh;
+    height: 35vh;
     width: 100%;
     background-image: url("/images/hero.jpg");
     background-size: cover;
@@ -103,7 +103,7 @@ h2 {
 }
 
 .content-2 {
-    height: 5vh;
+    height: 7vh;
     width: 100vw;
     background-color: rgb(121, 39, 39);
     color: white;
