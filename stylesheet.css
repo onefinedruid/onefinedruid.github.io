@@ -102,12 +102,12 @@ h2 {
 }
 
 .content-2 {
-    height: 25vh;
+    height: 23vh;
     width: 100%;
     background-color: rgb(88, 20, 11);
     color: white;
     text-align: center;
-    padding: 3em;
+    padding: 2em;
 }
 
 .content-2 h2:nth-of-type(1) {
