@@ -375,18 +375,11 @@ nav img {
 }
 
 .content-3 h2:nth-of-type(1) {
-    font-family:'Montserrat';
-    text-transform: uppercase; 
     font-size:48px;
-    font-weight:900;
-    color:rgb(121, 39, 39);
 }
 
 .content-3 h2:nth-of-type(2) {
-    font-family:'Montserrat';
     font-size: 60px;
-    font-weight: 300;
-    color: goldenrod;
 }
 
 .content-5 p {
