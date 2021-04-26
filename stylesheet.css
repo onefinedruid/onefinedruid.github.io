@@ -340,8 +340,9 @@ nav img {
 }
 
 .content-5 {
-    height: 75vh;
+    height: 65vh;
     background-position-x: right;
+    padding-bottom: 5em;
 }
 
 }
