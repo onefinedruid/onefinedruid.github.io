@@ -210,8 +210,8 @@ h2 {
     height: 5vh;
     width: 100%;
     background-image: url("/images/wings.png");
+    background-position-x: center;
     background-size: contain;
-    background-position: center;
     background-repeat: no-repeat;
     background-color: white;
     text-align: center;
