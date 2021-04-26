@@ -210,8 +210,9 @@ h2 {
     height: 30vh;
     width: 100%;
     background-image: url("/images/wings.png");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
+    background-repeat: no-repeat;
     background-color: white;
 }
 
@@ -336,6 +337,11 @@ nav img {
 .opacity-screen-2 p {
     font-size: 25px;
     width: 37vw;
+}
+
+.content-5 {
+    height: 75vh;
+    background-position-x: right;
 }
 
 }
