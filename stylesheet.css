@@ -372,6 +372,7 @@ nav img {
     height: 65vh;
     background-position-x: right;
     background-size: 60%;
+    text-align: left;
 }
 
 .content-3 h2:nth-of-type(1) {
