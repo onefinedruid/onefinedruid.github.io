@@ -343,6 +343,7 @@ nav img {
     height: 65vh;
     background-position-x: right;
     padding-bottom: 5em;
+    background-size: 50%;
 }
 
 }
