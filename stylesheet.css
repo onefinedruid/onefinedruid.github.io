@@ -3,6 +3,8 @@ font-family: 'Montserrat', sans-serif; Light 300, Black 900
 font-family: 'Open Sans', sans-serif; Regular 400, Bold 700
 */
 
+/* Mobile Viewport */
+
 body {
     margin: 0;
     padding: 0;
@@ -254,9 +256,13 @@ h2 {
     background-position: center;
     color: white;
 }
+/* Tablet Viewport */ 
+@media only screen and (min-width: 481px) {
 
+}
 
-@media only screen and (min-width: 768px) {
+/* Laptop Viewport */
+@media only screen and (min-width: 769px) {
 
 nav {
     height: 7vh;
@@ -392,6 +398,7 @@ nav img {
 }
 }
 
-@media only screen and (min-width: 1440px) {
+/* Desktop Viewport */
+@media only screen and (min-width: 1025px) {
 
 }
