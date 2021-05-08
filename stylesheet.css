@@ -329,13 +329,14 @@ nav img {
 
 .content-3 {
     background-position-x: left;
-    text-align: right;
+    display: flex;
+    flex-direction: row;
     height: 75vh;
     padding-bottom: 0;
 }
 
 .textblock-3 {
-    text-align: left;
+    align-self: flex-end;
     margin-right: 10vw;
     padding-top: 2em;
 }
@@ -377,7 +378,7 @@ nav img {
 }
 
 .content-5 {
-    height: 55vh;
+    height: 40vh;
     background-position-x: right;
     background-size: 60%;
     text-align: left;
@@ -392,7 +393,8 @@ nav img {
 }
 
 .textblock-5 {
-    margin-left: 10vw;
+    margin-left: 5vw;
+    padding-top: -10vw;
 }
 
 .content-5 p {
