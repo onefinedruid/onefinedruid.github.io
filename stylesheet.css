@@ -329,21 +329,20 @@ nav img {
 
 .content-3 {
     background-position-x: left;
-    display: flex;
-    flex-direction: row;
     height: 75vh;
     padding-bottom: 0;
+    text-align: right;
 }
 
 .textblock-3 {
-    align-self: flex-end;
     margin-right: 10vw;
     padding-top: 2em;
+    text-align: left;
 }
 
 .content-3 h2:nth-of-type(1) {
     font-family:'Montserrat';
-    font-size: 60px;
+    font-size: 48px;
     font-weight: 300;
     color: goldenrod;
 }
@@ -351,7 +350,7 @@ nav img {
 .content-3 h2:nth-of-type(2) {
     font-family:'Montserrat';
     text-transform: uppercase; 
-    font-size:48px;
+    font-size:60px;
     font-weight:900;
     color:rgb(121, 39, 39);
 }
@@ -378,18 +377,10 @@ nav img {
 }
 
 .content-5 {
-    height: 40vh;
+    height: 55vh;
     background-position-x: right;
     background-size: 60%;
     text-align: left;
-}
-
-.content-3 h2:nth-of-type(1) {
-    font-size:48px;
-}
-
-.content-3 h2:nth-of-type(2) {
-    font-size: 60px;
 }
 
 .textblock-5 {
@@ -405,11 +396,11 @@ nav img {
 }
 
 .content-5 h2:nth-of-type(1) {
-    font-size: 48px;
+    font-size: 60px;
 } 
 
 .content-5 h2:nth-of-type(2) {
-    font-size: 60px;
+    font-size: 48px;
 } 
 }
 
