@@ -408,7 +408,8 @@ nav img {
 }
 
 .content-6 {
-    margin: 0;
+    border: none;
+    margin-top: -10vh;
     padding: 0;
     height: 60vh;
 }
