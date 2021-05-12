@@ -413,6 +413,18 @@ nav img {
 
 .content-6 {
     height: 60vh;
+    text-align: center;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50vw;
+}
+
+.link {
+    text-align: left;
 }
 }
 
