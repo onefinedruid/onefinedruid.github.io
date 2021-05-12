@@ -441,6 +441,10 @@ nav img {
     width: 200px;
 }
 
+.col-3 {
+    margin-left: 2em;
+}
+
 .copyright {
     font-size: 14px;
 }
