@@ -416,7 +416,7 @@ nav img {
     text-align: center;
     color: white;
     font-family: 'Open Sans';
-    padding-top: .2em;
+    padding-top: .3em;
 }
 
 .link-logo {
@@ -430,6 +430,7 @@ nav img {
 
 .links {
     display: flex;
+    margin: auto;
     flex-direction: row;
     justify-content: space-between;
     width: 50vw;
@@ -437,6 +438,7 @@ nav img {
 
 .link {
     text-align: left;
+    width: 150px;
 }
 }
 
