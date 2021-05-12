@@ -412,7 +412,6 @@ nav img {
 }
 
 .content-6 {
-    font-family:'Montserrat';
     height: 65vh;
     text-align: center;
     color: white;
@@ -430,6 +429,7 @@ nav img {
 }
 
 .bottom-links {
+    font-family:'Montserrat';
     text-align: center;
     margin: auto;
     display: flex;
