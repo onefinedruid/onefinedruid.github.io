@@ -383,8 +383,8 @@ nav img {
 
 .content-5 {
     height: 75vh;
-    background-position-x: right 5%;
-    background-position-y: bottom 2%;
+    background-position-x: right, 5%;
+    background-position-y: bottom, 2%;
     background-size: 60%;
     text-align: left;
     padding-bottom: 0;
