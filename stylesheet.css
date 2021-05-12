@@ -415,12 +415,11 @@ nav img {
     height: 60vh;
     text-align: center;
     color: white;
+    padding-top: 6em;
 }
 
 .link-logo {
     margin: auto;
-    padding-top: 6em;
-    padding-bottom: 1em;
     width: 250px;
     height: 100px;
     background-image: url("/images/logo white.png");
