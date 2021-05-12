@@ -430,10 +430,9 @@ nav img {
 
 .links {
     display: flex;
-    margin: auto;
     flex-direction: row;
     justify-content: space-between;
-    width: 60vw;
+    width: 57vw;
 }
 
 .link {
