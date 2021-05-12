@@ -430,6 +430,7 @@ nav img {
 }
 
 .bottom-links {
+    font-family:'Open Sans';
     text-align: center;
     margin: auto;
     display: flex;
@@ -453,6 +454,7 @@ nav img {
 }
 
 .copyright {
+    font-family:'Open Sans';
     font-size: 14px;
 }
 }
