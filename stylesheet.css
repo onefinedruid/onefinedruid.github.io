@@ -418,9 +418,11 @@ nav img {
 }
 
 .link-logo {
-    width: 700px;
-    height: 400px;
+    width: 400px;
+    height: 200px;
     background-image: url("/images/logo white.png");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .links {
