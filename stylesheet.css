@@ -412,6 +412,7 @@ nav img {
 }
 
 .content-6 {
+    font-family:'Open Sans';
     height: 65vh;
     text-align: center;
     color: white;
@@ -429,7 +430,6 @@ nav img {
 }
 
 .bottom-links {
-    font-family:'Montserrat';
     text-align: center;
     margin: auto;
     display: flex;
@@ -439,14 +439,14 @@ nav img {
     transform: translateX(2em);
 }
 
-.link {
+.link-col {
     display: flex;
     flex-direction: column;
     text-align: left;
     width: 200px;
 }
 
-.link a {
+.link-col a {
     margin-bottom: .5em;
     text-decoration: none;
     color: white;
