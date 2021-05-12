@@ -412,12 +412,15 @@ nav img {
 }
 
 .content-6 {
-    font-family:'Open Sans';
     height: 65vh;
     text-align: center;
     color: white;
     font-family: '';
     padding-top: 1em;
+}
+
+.content-6 p {
+    font-family:'Open Sans';
 }
 
 .link-logo {
