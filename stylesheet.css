@@ -438,10 +438,6 @@ nav img {
 
 .link {
     text-align: left;
-    width: 200px;
-}
-
-.col-1, .col-3 {
     width: 300px;
 }
 
