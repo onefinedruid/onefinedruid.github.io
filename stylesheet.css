@@ -435,11 +435,15 @@ nav img {
     flex-direction: row;
     justify-content: space-around;
     width: 57vw;
+    transform: translateX(2em);
 }
 
 .link {
     text-align: left;
     width: 200px;
+}
+
+.link a {
     margin-bottom: 1em;
 }
 
