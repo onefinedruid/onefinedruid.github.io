@@ -431,7 +431,7 @@ nav img {
 .links {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 57vw;
 }
 
@@ -441,7 +441,7 @@ nav img {
 }
 
 .copyright {
-    font-size: 12px;
+    font-size: 14px;
 }
 }
 
