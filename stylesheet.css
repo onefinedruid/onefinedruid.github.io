@@ -432,13 +432,13 @@ nav img {
     margin: auto;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 57vw;
 }
 
 .link {
     text-align: left;
-    width: 30vw;
+    width: 200px;
 }
 
 .copyright {
