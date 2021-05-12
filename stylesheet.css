@@ -439,6 +439,8 @@ nav img {
 }
 
 .link {
+    display: flex;
+    flex-direction: column;
     text-align: left;
     width: 200px;
 }
