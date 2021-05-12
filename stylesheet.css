@@ -429,6 +429,7 @@ nav img {
 }
 
 .links {
+    margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
