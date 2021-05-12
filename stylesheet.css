@@ -414,6 +414,13 @@ nav img {
 .content-6 {
     height: 60vh;
     text-align: center;
+    color: white;
+}
+
+.link-logo {
+    width: 700px;
+    height: 400px;
+    background-image: url("/images/logo white.png");
 }
 
 .links {
