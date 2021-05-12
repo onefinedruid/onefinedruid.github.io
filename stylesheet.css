@@ -442,7 +442,7 @@ nav img {
 }
 
 .col-3 {
-    margin-left: 2em;
+    transform: translateX(2em);
 }
 
 .copyright {
