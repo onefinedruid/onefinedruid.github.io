@@ -440,15 +440,11 @@ nav img {
 
 .link {
     text-align: left;
-    width: 200px;
+    width: 350px;
 }
 
 .link a {
     margin-bottom: 1em;
-}
-
-.col-1, .col-2 {
-    width: 350px;
 }
 
 .copyright {
