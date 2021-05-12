@@ -441,8 +441,8 @@ nav img {
     width: 200px;
 }
 
-.col-3 {
-    transform: translateX(2em);
+.col-2, .col-3 {
+    width: 300px;
 }
 
 .copyright {
