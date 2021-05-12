@@ -382,10 +382,10 @@ nav img {
 }
 
 .content-5 {
-    height: 75vh;
-    background-position-x: right, 15%;
-    background-position-y: bottom, 2%;
-    background-size: 60%;
+    height: 72vh;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 70%;
     text-align: left;
     padding-bottom: 0;
     margin: 0
