@@ -448,6 +448,7 @@ nav img {
 .link a {
     margin-bottom: .5em;
     text-decoration: none;
+    color: white;
 }
 
 .copyright {
