@@ -419,8 +419,8 @@ nav img {
 
 .link-logo {
     margin: auto;
-    margin-top: 10em;
-    margin-bottom: 1em;
+    padding-top: 6em;
+    padding-bottom: 1em;
     width: 250px;
     height: 100px;
     background-image: url("/images/logo white.png");
