@@ -429,10 +429,11 @@ nav img {
 }
 
 .links {
-    width: 100%;
+    text-align: center;
+    margin: auto;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
     width: 57vw;
 }
 
