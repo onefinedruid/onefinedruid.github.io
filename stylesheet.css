@@ -442,6 +442,10 @@ nav img {
     width: 200px;
 }
 
+.col-1, .col-2 {
+    width: 300px;
+}
+
 .copyright {
     font-size: 14px;
 }
