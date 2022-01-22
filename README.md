@@ -1,2 +1,4 @@
-# onefinedruid.github.io
-Using this to test out web pages.
+# illuminati-game
+A 1-bit browser game.
+
+![1-22 Mockup](/mockup448x320.png)
