@@ -8,6 +8,6 @@ body {
     background-color: gainsboro;
 }
 
-body:first-child { 
+p:first-child { 
     background-color: snow;
 }
