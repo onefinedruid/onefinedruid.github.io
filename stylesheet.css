@@ -7,3 +7,7 @@ body {
     padding: 2rem;
     background-color: gainsboro;
 }
+
+body:first-child { 
+    background-color: snow;
+}
