@@ -1,89 +1,9 @@
-@font-face {
-    font-family: 'Eurostile';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Eurostile'), url('../src/fonts/eurostile/eurostile.woff') format('woff');
-    }
-    
-@font-face {
-    font-family: 'EuroStyle Normal';
-    font-style: normal;
-    font-weight: normal;
-    src: local('EuroStyle Normal'), url('../src/fonts/eurostile/EuroStyle Normal.woff') format('woff');
-    }
-
-body {
-	background-color: #CFAD42;
-	color: #292D30;
-	font-family: 'Source Code Pro', monospace;
+* {
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
-h3 {
-	margin: 0;
-	font-family: 'Eurostile';
-	font-size: 27pt;
-	font-weight: bold;
-	padding-left: 2rem;
+body { 
+    margin: 0;
+    padding: 2rem;
+    background-color: gainsboro;
 }
-
-p {
-	padding-left: 2rem;
-}
-
-#app {
-	width: 995px;
-}
-
-#canvas {
-	display: grid;
-	grid-template-columns: repeat(14, 1fr);
-	background-color: #292D30;
-	margin: 2rem;
-	margin-bottom: 0;
-	height: 666px;
-	background-image: url("mockup448x320.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-
-}
-
-.square {
-	border: 1.2px dotted #CFAD42;
-}
-
-#card {
-	margin: 0;
-	padding: 0;
-	width: 128px;
-	height: 128px;
-	background-image: url("../src/assets/2BavarianIlluminati.PNG");
-	background-size: contain;
-	transform: translateX(30px);
-	border: 1px dotted red;
-}
-
-#card p {
-	margin: auto;
-}
-
-textarea:focus, input:focus{
-    outline: none;
-}
-
-#terminal {
-	margin: 2rem;
-	margin-top: 0;
-	border: 1px solid #292D30;
-}
-
-#terminal-in {
-	background: none;
-	border: none;
-	color: #292D30;
-	font-family: 'Source Code Pro', monospace;
-}
-
-::placeholder {
-	color: #292D30;
-}
-
