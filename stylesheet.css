@@ -8,6 +8,7 @@ body {
     background-color: gainsboro;
 }
 
-p:first-child { 
+p:first-child {
+    font-size: 60pt;
     background-color: snow;
 }
