@@ -9,6 +9,7 @@ body {
 }
 
 p:first-child {
+    margin: 0;
     font-size: 60pt;
     padding: 1rem 0 1rem 0;
     background-color: snow;
