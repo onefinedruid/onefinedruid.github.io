@@ -13,6 +13,14 @@ p {
 }
 
 p:first-child {
-    font-size: 60pt;
+    font-size: 40pt;
     background-color: snow;
+}
+
+@media (max-width: 911px) {
+    
+p:first-child {
+    font-size: 40pt;
+}
+
 }
