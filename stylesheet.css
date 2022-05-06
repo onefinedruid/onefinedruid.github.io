@@ -17,7 +17,7 @@ p:first-child {
     background-color: snow;
 }
 
-@media (max-width: 911px) {
+@media (max-width: 767px) {
     
 p:first-child {
     font-size: 40pt;
