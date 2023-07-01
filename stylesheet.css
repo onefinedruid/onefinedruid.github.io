@@ -15,8 +15,9 @@ p {
 }
 
 p:first-child {
+    color: snow;
     font-size: 33pt;
-    background-color: snow;
+    background-color: black;
     padding-bottom: 0;
 }
 
@@ -25,7 +26,7 @@ p:first-child {
     flex-direction: column;
     align-items: stretch;
     height: 100vh;
-    background-color: snow;
+    background-color: black;
     gap: 1rem;
     padding: 1rem 2rem;
 }
