@@ -6,7 +6,8 @@
 
 body { 
     margin: 0;
-    background-color: gainsboro;
+    background-color: black;
+    color: snow;
 }
 
 p {
@@ -15,9 +16,8 @@ p {
 }
 
 p:first-child {
-    color: snow;
     font-size: 33pt;
-    background-color: black;
+    background-color: snow;
     padding-bottom: 0;
 }
 
@@ -26,7 +26,7 @@ p:first-child {
     flex-direction: column;
     align-items: stretch;
     height: 100vh;
-    background-color: black;
+    background-color: snow;
     gap: 1rem;
     padding: 1rem 2rem;
 }
