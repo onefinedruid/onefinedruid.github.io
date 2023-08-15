@@ -59,8 +59,6 @@ p:first-child {
 
 @media screen and (min-width: 1200px) {
 
-.section1 {
-    height: 50vh;
-}
-
+.img {
+    height: 24rem;
 }
