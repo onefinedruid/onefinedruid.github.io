@@ -15,6 +15,7 @@ a {
     color: gainsboro;
     font-size: 16px;
     padding: 0.75rem;
+    text-decoration: none;
 }
 
 a:visited {
