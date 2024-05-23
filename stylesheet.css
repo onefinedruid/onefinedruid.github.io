@@ -9,5 +9,14 @@
     align-items: flex-start;
     border-right: 2px black;
     width: 20vw;
+}
+
+a {
     color: gainsboro;
+    font-size: 16px;
+    padding: 0.75rem;
+}
+
+a:visited {
+    color: purple;
 }
