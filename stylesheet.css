@@ -1,7 +1,6 @@
 * {
     background-color: snow;
     font-family: helvetica, sans-serif;
-    color: gainsboro;
 }
 
 .nav-menu {
@@ -10,4 +9,5 @@
     align-items: flex-start;
     border-right: 2px black;
     width: 20vw;
+    color: gainsboro;
 }
