@@ -11,10 +11,6 @@
 .container {
     display: flex;
     flex-direction: row;
-    height: 60vh;
-    width: 80vw;
-    margin: 0 auto;
-    background-color: darkgreen;
 }
 
 .nav-menu {
@@ -34,4 +30,11 @@ a {
 
 a:visited {
     color: purple;
+}
+
+.content {
+    height: 60vh;
+    width: 80vw;
+    margin: 0 auto;
+    background-color: darkgreen;
 }
