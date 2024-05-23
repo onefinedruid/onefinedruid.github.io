@@ -20,6 +20,7 @@
     border-right: 2px solid gainsboro;
     width: 27vw;
     height: 35vh;
+    transform: translateY(5rem);
 }
 
 a {
