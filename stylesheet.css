@@ -3,6 +3,11 @@
     font-family: helvetica, sans-serif;
 }
 
+.header {
+    padding: 1rem;
+    font-size: 36pt;
+}
+
 .nav-menu {
     display: flex;
     flex-direction: column;
@@ -13,7 +18,7 @@
 
 a {
     color: gainsboro;
-    font-size: 16px;
+    font-size: 16pt;
     padding: 0.75rem;
     text-decoration: none;
 }
