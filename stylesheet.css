@@ -1,3 +1,8 @@
+* {
+    background-color: snow;
+    font-family: helvetica, sans-serif;
+    color: gainsboro;
+}
 
 .nav-menu {
     display: flex;
