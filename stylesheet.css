@@ -24,7 +24,7 @@
 }
 
 nav-menu:hover {
-    border-right: 2px solid linear-gradient(to bottom, red, purple);
+    border-image-source: linear-gradient(to bottom, red, purple);
 }
 
 a {
