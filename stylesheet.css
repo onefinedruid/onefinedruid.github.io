@@ -46,4 +46,5 @@ a:visited {
     width: 100%;
     margin: 0 4rem;
     background-color: darkslategray;
+    justify-self: center;
 }
