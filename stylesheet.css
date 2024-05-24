@@ -30,6 +30,7 @@ a {
     font-size: 12pt;
     padding: 0.75rem;
     text-decoration: none;
+    width: 27vw;
 }
 
 a:hover {
