@@ -43,8 +43,7 @@ a:visited {
 }
 
 .content {
-    height: 80vh;
-    width: 100%;
+    width: 80%;
     margin: 0 4rem;
     background-color: darkgreen;
 }
