@@ -23,6 +23,10 @@
     transform: translateY(5rem);
 }
 
+nav-menu:hover {
+    border-right: 2px solid linear-gradient(to bottom, red, purple);
+}
+
 a {
     font-family: "DM Sans";
     font-weight: 200;
