@@ -46,5 +46,11 @@ a:visited {
     width: 100%;
     margin: 0 4rem;
     background-color: darkslategray;
+}
+.content h2 {
+    font-family: "DM Sans";
+}
+
+.content p {
     font-family: "DM Sans";
 }
