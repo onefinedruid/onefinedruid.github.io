@@ -22,7 +22,7 @@
     transform: translateY(5rem);
 }
 
-a {
+.nav-menu:a {
     font-family: "DM Sans";
     font-weight: 200;
     color: gainsboro;
