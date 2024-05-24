@@ -30,8 +30,12 @@ a {
     text-decoration: none;
 }
 
-a:visited {
+a:hover {
     color: purple;
+}
+
+a:visited {
+    color: grey;
 }
 
 .content {
