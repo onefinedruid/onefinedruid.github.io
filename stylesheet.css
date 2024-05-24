@@ -35,7 +35,7 @@ a {
 
 a:hover {
     color: purple;
-    border-right: 2px solid purple;
+    border-right: 5px solid purple;
 }
 
 a:visited {
