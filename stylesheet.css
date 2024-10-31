@@ -18,7 +18,7 @@
 
 .container {
     display: flex;
-    flex-direction: row;
+    flex-direction: col;
 }
 
 .nav-menu {
