@@ -40,7 +40,6 @@
     text-decoration: none;
     width: 100%;
     border-right: 1px solid gainsboro;
-    background-color: rgba(255,255,255,1.0);
 }
 
 a:hover {
@@ -55,7 +54,6 @@ a:visited {
 .content {
     width: 100%;
     padding: 2rem;
-    margin: 0 4rem;
 }
 .content h2 {
     font-family: "DM Sans";
