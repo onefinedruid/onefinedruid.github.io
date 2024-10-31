@@ -24,6 +24,7 @@
 
 .nav-menu {
     display: flex;
+    background-color: none;
     flex-direction: row;
     align-items: flex-start;
     width: 90vw;
