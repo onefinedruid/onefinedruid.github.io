@@ -28,7 +28,6 @@
     align-items: flex-start;
     width: 90vw;
     height: 35vh;
-    transform: translateY(5rem);
 }
 
 .nav-menu a {
