@@ -52,8 +52,8 @@ a:visited {
 
 .content {
     width: 100%;
+    padding: 2rem;
     margin: 0 4rem;
-    background-color: darkslategray;
 }
 .content h2 {
     font-family: "DM Sans";
