@@ -8,6 +8,10 @@
     font-size: 54pt;
 }
 
+.header p {
+    line-height: normal;
+}
+
 .container {
     display: flex;
     flex-direction: row;
