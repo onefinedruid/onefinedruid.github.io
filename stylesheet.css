@@ -24,7 +24,6 @@
 
 .nav-menu {
     display: flex;
-    background-color: rgba(255,255,255,1.0);
     flex-direction: row;
     align-items: flex-start;
     width: 90vw;
@@ -41,6 +40,7 @@
     text-decoration: none;
     width: 100%;
     border-right: 1px solid gainsboro;
+    background-color: rgba(255,255,255,1.0);
 }
 
 a:hover {
