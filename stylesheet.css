@@ -62,3 +62,12 @@ a:visited {
     font-family: "DM Sans";
     font-size: 20pt;
 }
+
+.content a {
+    font-size: 24pt;
+    height: 3rem;
+    width: 100%;
+    padding: 0 1rem;
+    color: darkgreen;
+    background-color: yellowgreen;
+}
