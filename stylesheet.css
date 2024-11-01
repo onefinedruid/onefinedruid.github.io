@@ -66,8 +66,15 @@ a:visited {
 .content a {
     font-size: 24pt;
     height: 3rem;
-    width: 100%;
+    width: 100%;    
     padding: 0 1rem;
     color: darkgreen;
     background-color: yellowgreen;
+}
+
+@media only screen and (min-width: 768px) {
+.navmenu {
+    flex-direction: row;
+}
+
 }
