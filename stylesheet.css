@@ -13,10 +13,6 @@
     padding: 0.75rem;
 }
 
-img {
-    margin: auto;
-}
-
 .header p {
     line-height: normal;
 }
@@ -26,6 +22,35 @@ img {
     flex-direction: column;
     width: 95vw;
 }
+
+img {
+    margin: auto;
+}
+
+
+.content {
+    width: 95vw;
+    padding: 2rem;
+    text-align: center;
+}
+.content h2 {
+    font-family: "DM Sans";
+}
+
+.content p {
+    font-family: "DM Sans";
+    font-size: 20pt;
+}
+
+.content a {
+    font-size: 24pt;
+    height: 3rem;
+    width: 100%;    
+    padding: 0 1rem;
+    color: darkgreen;
+    background-color: yellowgreen;
+}
+
 
 .nav-menu {
     display: flex;
@@ -56,27 +81,6 @@ a:visited {
     border-right: 1px solid purple;
 }
 
-.content {
-    width: 95vw;
-    padding: 2rem;
-}
-.content h2 {
-    font-family: "DM Sans";
-}
-
-.content p {
-    font-family: "DM Sans";
-    font-size: 20pt;
-}
-
-.content a {
-    font-size: 24pt;
-    height: 3rem;
-    width: 100%;    
-    padding: 0 1rem;
-    color: darkgreen;
-    background-color: yellowgreen;
-}
 
 @media only screen and (min-width: 768px) {
 .nav-menu {
