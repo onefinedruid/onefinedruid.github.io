@@ -38,7 +38,7 @@ img {
 .nav-menu a {
     font-family: "DM Sans";
     font-weight: 200;
-    color: gainsboro;
+    color: #555;
     font-size: 18pt;
     padding: 0.75rem;
     text-decoration: none;
@@ -48,15 +48,16 @@ img {
 
 a:hover {
     color: purple;
-    border-right: 5px solid purple;
+    border-right: 5px solid #555;
 }
 
 a:visited {
-    color: grey;
+    color: purple;
+    border-right: 1px solid purple;
 }
 
 .content {
-    width: 100%;
+    width: 95vw;
     padding: 2rem;
 }
 .content h2 {
