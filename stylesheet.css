@@ -16,7 +16,7 @@
     height: 200vh;
     width: auto;
     padding: 1rem;
-    background: linear-gradient(to bottom right, dodgerblue 20%, #ff6200 80%);
+    background: linear-gradient(to bottom right, dodgerblue 80%, #ff6200 20%);
 }
 
 .content {
@@ -77,6 +77,7 @@ h2 {
     }
 
 }
+
 
 
 
