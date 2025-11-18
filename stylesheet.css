@@ -68,6 +68,7 @@ h2 {
 graphic {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .lbb2, .lbb3 {
@@ -86,6 +87,7 @@ graphic {
     }
 
 }
+
 
 
 
