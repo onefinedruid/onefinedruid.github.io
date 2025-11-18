@@ -64,3 +64,16 @@ h2 {
     font-size: 28pt;
     color: lightgrey
 }
+
+@media screen and (min-width: 1080px) {
+
+    h2 {
+        width: 50vw;
+    }
+
+    .graphic p {
+        font-size: 20pt;
+        width: 50vw;
+    }
+
+}
