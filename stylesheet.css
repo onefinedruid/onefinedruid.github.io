@@ -4,7 +4,7 @@
 }
 
 .header {
-    background: linear-gradient(to right, snow, orange);
+    background: linear-gradient(to right, snow, lightgray);
     padding: 1rem;
     font-weight: lighter;
     width: auto;
@@ -16,7 +16,7 @@
     height: 200vh;
     width: auto;
     padding: 1rem;
-    background: linear-gradient(to bottom right, dodgerblue 20%, orange 80%);
+    background: linear-gradient(to bottom right, dodgerblue 20%, #ff6200 80%);
 }
 
 .content {
@@ -77,5 +77,6 @@ h2 {
     }
 
 }
+
 
 
