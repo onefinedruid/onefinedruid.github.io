@@ -1,0 +1,52 @@
+* {
+    font-family: "DM Sans", sans-serif;
+    margin: 0;
+}
+
+.header {
+    background: linear-gradient(to right, snow, skyblue);
+    padding: 1rem;
+    font-weight: lighter;
+    width: auto;
+    z-index: 0;
+}
+
+.container {
+    height: 100vh;
+    width: auto;
+    padding: 1rem;
+    background: linear-gradient(to bottom right, dodgerblue 20%, purple 70%);
+}
+
+.content {
+    z-index: 1;
+}
+
+svg {
+    transform: scale(3) translate(-1vw, 0vh);
+    z-index: 0;
+}
+
+h1 {
+    color: snow;
+    width: 75vw;
+    line-height: 0.70;
+    font-weight: bolder;
+    border-bottom: 1px solid snow
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 23pt;
+}
+
+a:visited {
+    color: purple; 
+}
