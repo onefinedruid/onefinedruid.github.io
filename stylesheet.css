@@ -9,13 +9,14 @@
     font-weight: lighter;
     width: auto;
     z-index: 0;
+    font-size: 16pt;
 }
 
 .container {
     height: 100vh;
     width: auto;
     padding: 1rem;
-    background: linear-gradient(to bottom right, dodgerblue 20%, purple 70%);
+    background: linear-gradient(to bottom right, dodgerblue 20%, purple 80%);
 }
 
 .content {
@@ -48,5 +49,18 @@ a {
 }
 
 a:visited {
-    color: purple; 
+    color: hotpink; 
+}
+
+h2 {
+    padding: 3rem 10px;
+    font-size: 46pt;
+    color: gold;
+    line-height: 0.86;
+    background-color: rgba(.95,.95,.95,0.2);
+}
+
+.graphic p {
+    font-size: 28pt;
+    color: lightgrey
 }
