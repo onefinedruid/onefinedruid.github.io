@@ -62,13 +62,13 @@ h2 {
 
 .graphic p {
     font-size: 22pt;
-    color: lightgrey
+    color: lightgrey;
 }
 
 graphic {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    align-items: center;
 }
 
 .lbb2 {
@@ -92,6 +92,7 @@ graphic {
     }
 
 }
+
 
 
 
