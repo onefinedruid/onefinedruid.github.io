@@ -71,8 +71,9 @@ graphic {
     justify-content: space-between;
 }
 
-.lbb2, .lbb3 {
-    background-color: purple;
+.lbb2 {
+    background-image: url("lbb2.jpg");
+    background-size: fit;
 }
 
 @media screen and (min-width: 1080px) {
@@ -87,6 +88,7 @@ graphic {
     }
 
 }
+
 
 
 
