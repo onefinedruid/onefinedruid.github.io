@@ -13,7 +13,7 @@
 }
 
 .container {
-    height: 100vh;
+    height: 200vh;
     width: auto;
     padding: 1rem;
     background: linear-gradient(to bottom right, dodgerblue 20%, purple 80%);
@@ -77,3 +77,4 @@ h2 {
     }
 
 }
+
