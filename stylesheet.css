@@ -16,7 +16,7 @@
     height: 250vh;
     width: auto;
     padding: 1rem;
-    background: linear-gradient(to bottom right, indigo 50%, purple 70%);
+    background: linear-gradient(to bottom right, darkslateblue 50%, darkorchid 70%);
 }
 
 .content {
@@ -92,6 +92,7 @@ graphic {
     }
 
 }
+
 
 
 
