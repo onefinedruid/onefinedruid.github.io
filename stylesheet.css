@@ -73,8 +73,12 @@ graphic {
 
 .lbb2 {
     background-image: url("lbb2.jpg");
-    background-size: fit;
+    background-size: cover;
 }
+
+.lbb3 {
+    background-image: url("lbb3.png");
+    background-size: cover;
 
 @media screen and (min-width: 1080px) {
 
@@ -88,6 +92,7 @@ graphic {
     }
 
 }
+
 
 
 
