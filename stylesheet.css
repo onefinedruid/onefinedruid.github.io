@@ -19,7 +19,7 @@
     width: auto;
     padding: 1rem;
     background: linear-gradient(to bottom right, dodgerblue 10%, darkorchid 90%);
-    align-items: center;
+    align-items: start;
 }
 
 .content {
@@ -120,6 +120,7 @@ h2 {
     }
 
 }
+
 
 
 
