@@ -75,6 +75,7 @@ h2 {
 .graphic {
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .lbb2 {
@@ -87,7 +88,7 @@ h2 {
 .lbb3 {
     background-image: url("lbb1.jpg");
     background-size: cover;
-    height: 1000px;
+    height: 1200px;
     width: 90vw;
 }
 
@@ -119,6 +120,7 @@ h2 {
     }
 
 }
+
 
 
 
