@@ -103,12 +103,12 @@ graphic {
     }
 
     .graphic {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     .lbb2,
     .lbb3 {
-        width: 10vw;
+        width: 20vw;
         height: 70vh;
     }
     
@@ -118,6 +118,7 @@ graphic {
     }
 
 }
+
 
 
 
