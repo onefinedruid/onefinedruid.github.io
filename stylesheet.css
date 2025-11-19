@@ -17,6 +17,7 @@
     width: auto;
     padding: 1rem;
     background: linear-gradient(to bottom right, dodgerblue 10%, darkorchid 90%);
+    align-items: center;
 }
 
 .content {
@@ -34,6 +35,10 @@ h1 {
     line-height: 0.70;
     font-weight: bolder;
     border-bottom: 1px solid snow
+}
+
+.profilepic {
+    border-radius: 100%
 }
 
 .nav-menu {
@@ -85,7 +90,7 @@ graphic {
     width: 90vw;
 }
 
-graphic h3 {
+.graphic h3 {
     color: gold;
     font-size: 22pt;
     padding: 1rem 0;
@@ -113,6 +118,7 @@ graphic h3 {
     }
 
 }
+
 
 
 
