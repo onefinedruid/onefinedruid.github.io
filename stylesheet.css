@@ -72,7 +72,7 @@ h2 {
     color: lightgrey;
 }
 
-graphic {
+.graphic {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -120,6 +120,7 @@ graphic {
     }
 
 }
+
 
 
 
