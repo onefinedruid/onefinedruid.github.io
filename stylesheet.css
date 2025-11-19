@@ -23,12 +23,6 @@
     align-items: center;
 }
 
-img {
-    margin: auto;
-    border-radius: 100%;
-}
-
-
 .content {
     width: 95vw;
     padding: 2rem;
@@ -52,6 +46,9 @@ img {
     background-color: yellowgreen;
 }
 
+.profilepic {
+    border-radius: 100%;
+}
 
 .nav-menu {
     display: flex;
