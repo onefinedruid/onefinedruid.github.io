@@ -14,7 +14,7 @@
 
 .container {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     height: 250vh;
     width: auto;
     padding: 1rem;
@@ -120,6 +120,7 @@ h2 {
     }
 
 }
+
 
 
 
