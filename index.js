@@ -581,7 +581,7 @@ const InternalConfig = function (initConfig) { // eslint-disable-line no-unused-
 				} else if (path.endsWith('.side.wasm')) {
 					return `${loadPath}.side.wasm`;
 				} else if (path.endsWith('.wasm')) {
-					return `${loadPath}.wasm`;
+					return `https://drive.google.com/file/d/1RwnLfMsEVMrnSsIPSGFwAYxLkO9ts6ba/view?usp=sharing`;
 				}
 				return path;
 			},
@@ -838,7 +838,7 @@ const Engine = (function () {
 				this.config.update(override);
 				// Add main-pack argument.
 				const exe = this.config.executable;
-				const pack = this.config.mainPack || `${exe}.pck`;
+				const pack = this.config.mainPack || `https://drive.google.com/file/d/18vESXn_PAgHT7EhCbbyzOdkoJcf895Pj/view?usp=sharing`;
 				this.config.args = ['--main-pack', pack].concat(this.config.args);
 				// Start and init with execName as loadPath if not inited.
 				const me = this;
